@@ -1,3 +1,5 @@
+
+// testing
 main {
 	/* test */
 }
